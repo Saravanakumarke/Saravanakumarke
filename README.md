@@ -1,16 +1,14 @@
-### Hi there 👋
+                                  
+                                  Hello👋, Myself Saravanakumar K 
 
-<!--
-**Saravanakumarke/Saravanakumarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A small gist about me:
+
+- 🔭 I’m currently experimenting open source world
+- 🌱 I’m currently learning Next js
+- 👯 I’m looking to collaborate on Javascript 
+- 💬 Ask me about  javascript & web performance
+- 📫 How to reach me: Linkedin(https://www.linkedin.com/in/saravanakumar-k-56a279185/)/saravanaeswari22@gmail.com
+- 😄 Portfolio: https://saravanakumark.000webhostapp.com/
+
